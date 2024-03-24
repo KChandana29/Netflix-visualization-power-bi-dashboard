@@ -15,3 +15,6 @@ The dashboard includes several key analyses:
 
 
 This dashboard is designed for both Netflix enthusiasts and data analysts interested in the streaming industry. It provides an interactive and informative experience, allowing to dive deep into Netflix's content landscape. Whether you're a casual viewer or a seasoned analyst, this dashboard is your gateway to understanding the world of Netflix content.
+
+# Screenshot
+![Screenshot 1(229)](https://github.com/KChandana29/Netflix-visualization-power-bi-dashboard/assets/109425291/c54605a4-fca8-48d0-94d4-4ce1a12a0bf3)
